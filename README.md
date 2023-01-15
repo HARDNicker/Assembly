@@ -12,7 +12,7 @@ Labs 1:
 Tasks:
 
 First file :
-The user enters three numbers. 
+Three numbers are given.
 Increase the first number by half, decrease the second number by 3, square the third number, and then find the sum of the new three numbers;
 
 Second file :
@@ -77,6 +77,8 @@ First file :  Suppose an array of 5 elements in binary format.
  ----------------------------------------------------------------------------------------------------------------------------------------------------------
  ## The challenges of cryptography
 Labs 7:
+
+The code is written in the 8086 emulator;
 
 Tasks:
 
